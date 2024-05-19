@@ -13,10 +13,9 @@ Hola, mi nombre es **Paulette Maldonado** :blush:, actualmente estoy cursando la
 - Ver documentales de asesinos seriales o casos misteriosos :alien:
 
 ## Objetivos:
-- Ser experta en **Linux** y **C**.
+- Ser experta en diversos lenguajes de programación y tecnologías.
 - Mejorar mis habilidades de programación a *nivel de sistemas*.
 
-Por el momento me está gustando bastante el contenido del curso, me gustaría conocer más a fondo como funciona Linux y ser diestra en C; considero que sería bastante interesante aprender sobre el manejo de hilos a bajo nivel, porque lo señalado por el docente es que eso suele ser un punto de inflexión al programar con C.
 
 ## Contacto
 - **Correo electrónico**: pauyamilemaldonado@hotmail.com o pauyamilemaldonado22@gmail.com
